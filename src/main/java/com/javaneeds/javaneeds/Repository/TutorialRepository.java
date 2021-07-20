@@ -1,6 +1,5 @@
 package com.javaneeds.javaneeds.Repository;
 
-import java.util.List;
 import java.util.Optional;
 
 import com.javaneeds.javaneeds.models.Tutorials;
